@@ -48,20 +48,6 @@
 
 ---
 
-## 💼 Featured Projects  
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **To-Do List** | Task management app | React, Node.js | [Demo](https://new-15t2.onrender.com/) • [Code](https://github.com/luyandaaaa/todo-app) |
-| **Weather App** | Real-time weather data | JavaScript, APIs | [Demo](https://luyandaaaa.github.io/Weather_app/) • [Code](https://github.com/luyandaaaa/Weather_app) |
-| **CineScope** | Movie streaming platform | MERN Stack | [Demo](https://cinescope-frontend-y9ee.onrender.com/) • [Code](https://github.com/luyandaaaa/cinescope) |
-
-</div>
-
----
-
 ## 📈 GitHub Stats  
 
 <div align="center">
