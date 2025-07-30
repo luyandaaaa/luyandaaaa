@@ -109,8 +109,8 @@
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| [The Complete 2024 Web Dev Bootcamp](https://ude.my/UC-3e3158ff-5e22-4208-9a6e-b04c363c1a42) | Udemy | 2023 |
-| [Data Structures & Algorithms Specialization](https://coursera.org/verify/T89XVJMQI8WD) | University of California San Diego | 2023 |
+| [The Complete 2024 Web Dev Bootcamp](https://ude.my/UC-3e3158ff-5e22-4208-9a6e-b04c363c1a42) | Udemy | 2024 |
+| [Data Structures & Algorithms](https://coursera.org/verify/T89XVJMQI8WD) | Amazon | 2025 |
 
 **Education**:  
 🎓 **Bachelor of Information and Communication Technology** (Cum Laude)  
