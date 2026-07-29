@@ -13,13 +13,13 @@
 
 ## 👩🏽‍💻 About Me
 
-- 💼 Junior DevOps Engineer supporting enterprise AML applications and SAS Viya platforms
+- 💼 DevOps Engineer supporting enterprise AML applications and SAS Viya platforms
 - ☁️ Experienced in CI/CD, cloud deployments, monitoring and production support
 - 💻 Full-stack development experience with React, Node.js, Java and Spring Boot
 - 🎓 Bachelor of ICT and ICT Honours graduate from Durban University of Technology
 - 🏆 Multi-hackathon winner passionate about solving real-world problems
 - 🌍 Based in Johannesburg, South Africa
-- 📫 Email: **lloyiswa2003@gmail.com**
+- 📫 **lloyiswa2003@gmail.com**
 - 🌐 [Portfolio](https://personal-portfolio-bpzl.onrender.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/luyanda-xhakaza-0505b4255)
 
@@ -31,7 +31,7 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,7 +42,7 @@
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS_Viya-1B365D?style=for-the-badge&logoColor=white)
+![SAS Viya](https://img.shields.io/badge/SAS_Viya-1B365D?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Full-Stack Development
@@ -67,107 +67,27 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### LeaveWise — Enterprise Leave Management System
-
-A full-stack leave management platform that allows employees to submit leave requests, managers to approve or reject them, and HR teams to manage leave balances, policies, documents, notifications and reporting.
-
-**Technology stack:**
-
-- React and TypeScript
-- Node.js, Express.js and Prisma
-- Supabase PostgreSQL
-- JWT authentication and role-based access control
-- Azure App Service and Azure Static Web Apps
-- Azure Blob Storage
-- Application Insights
-- GitHub Actions CI/CD
-
----
-
-### Farm2City — Agricultural Marketplace
-
-A production-oriented marketplace connecting small-scale farmers with consumers and businesses.
-
-**Key capabilities:**
-
-- Farmer, consumer and administrator portals
-- Product and inventory management
-- Ordering, payments and delivery workflows
-- Role-based authentication
-- PostgreSQL database with Prisma
-- Node.js and Express backend
-
----
-
-### SafeVoice AI — GBV Support Platform
-
-An AI-enabled platform designed to help users report incidents, securely store evidence, access support services and use emergency assistance features.
-
-**Technology stack:**
-
-- React and TypeScript
-- Node.js and Express.js
-- MongoDB
-- JWT authentication
-- AI-assisted workflows and analytics
-
----
-
-### Smart Booking API Suite
-
-A secure REST API for booking management with authentication, role-based access, database integration and API documentation.
-
-**Technology stack:**
-
-- Node.js and Express.js
-- PostgreSQL
-- Sequelize
-- JWT authentication
-- Swagger/OpenAPI
-- Docker and CI/CD
-
----
-
 ## 🏆 Education and Achievements
 
 - 🎓 Bachelor of Information and Communications Technology — Cum Laude
 - 🎓 Bachelor of ICT Honours — Cum Laude
-- 🏆 Multi-hackathon winner
-- 🥇 She Leads EmpowerHer AI Hackathon
-- 🥇 Telkom Future of Payments Hackathon
+- 🥇 She Leads EmpowerHer AI Hackathon winner
+- 🥇 Telkom Future of Payments Hackathon winner
 - 🥉 SMU Digital Health Hackathon
 - 🌟 TCS Sustainathon South Africa Top 5
 
 ---
 
-## 📜 Selected Certifications
-
-- Developing Back-End Applications with Node.js and Express — IBM
-- Full Stack Web Development — Amazon
-- Database Management with Java and SQL — Amazon
-- Data Structures and Algorithms — Amazon
-- Advanced React — Meta
-- React Basics — Meta
-- Linux Commands and Shell Scripting — IBM
-- Getting Started with Git and GitHub — IBM
-- AI Agents and Agentic AI with Python and Generative AI — Vanderbilt University
-- Generative AI in Software Development — Amazon
-- AWS Cloud Practitioner Exam Preparation — Udemy
-
----
-
-## 📊 GitHub Activity
+## 📈 GitHub Stats  
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luyandaaaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luyandaaaa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=luyandaaaa&theme=tokyonight&hide_border=true)
-
+  
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luyandaaaa&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=luyandaaaa&layout=compact&theme=radical&hide_border=true)
+  
+  ![Streak Stats](https://streak-stats.demolab.com/?user=luyandaaaa&theme=radical&hide_border=true)
+  
 </div>
 
 ---
